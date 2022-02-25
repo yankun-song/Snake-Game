@@ -1,4 +1,6 @@
 # Snake_Game
+In this project, I builded a simple snake game. It hasn't been totally done yet, as the head can cross its body.
+<img width="719" alt="image" src="https://user-images.githubusercontent.com/43141076/155757681-6c5ffda9-4da9-4d6f-9f14-03e7e5be7282.png">
 
 ## HTML
 In the html, I only constructed two divs. One is for the board, in which we play the game. The other is for counting scores.
