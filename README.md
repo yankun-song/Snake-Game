@@ -1,5 +1,5 @@
 # Snake_Game
-In this project, I builded a simple snake game. It hasn't been totally done yet, as the head can cross its body.
+In this project, I built a simple snake game. It hasn't been totally done yet, as the head can cross its body.
 
 **Tech used: DOM manipulation**
 
