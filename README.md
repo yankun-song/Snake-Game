@@ -26,3 +26,7 @@ One thing worth noting is at the end, I used a _setTimeOut()_ where I called the
 - Body.js
 1. _constructor(head)_. A body instance will always be linked to a head instance. It also has a _length_ property. 
 2. _show()_. In this method, I showed the body nodes. Everytime show the body nodes, I cleared the past body nodes. And then I added current body nodes as html elements. The position of these nodes would be retrieved from the path of the head. What I'm doing can work, but is not efficient, I should refactor in the future.
+
+  
+ --------
+[Codesmith Tutorial](https://github.com/yankun-song/unit-4-snake)
